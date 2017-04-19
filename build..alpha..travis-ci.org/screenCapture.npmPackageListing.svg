@@ -1,139 +1,139 @@
 <svg height="2174" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="2174" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-19 14:59:32 +0000   922506 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-19 14:59:32 +0000     1136 bytes  CHANGELOG</tspan>
-<tspan x="10" y="58">  2.  2017-04-19 14:59:32 +0000     2046 bytes  Gruntfile.js</tspan>
-<tspan x="10" y="74">  3.  2017-04-19 14:59:32 +0000     1497 bytes  LICENSE</tspan>
-<tspan x="10" y="90">  4.  2017-04-19 14:59:32 +0000      806 bytes  LICENSE-colors</tspan>
-<tspan x="10" y="106">  5.  2017-04-19 14:59:32 +0000      525 bytes  bower.json</tspan>
-<tspan x="10" y="122">  6.  2017-04-19 14:59:32 +0000    76247 bytes  chroma.js</tspan>
-<tspan x="10" y="138">  7.  2017-04-19 14:59:32 +0000    36706 bytes  chroma.min.js</tspan>
-<tspan x="10" y="154">  8.  2017-04-19 14:59:32 +0000      181 bytes  docs/Makefile</tspan>
-<tspan x="10" y="170">  9.  2017-04-19 14:59:32 +0000      152 bytes  docs/assets/bg.png</tspan>
-<tspan x="10" y="186"> 10.  2017-04-19 14:59:32 +0000      367 bytes  docs/bin/post-process</tspan>
-<tspan x="10" y="202"> 11.  2017-04-19 14:59:32 +0000    37784 bytes  docs/index.html</tspan>
-<tspan x="10" y="218"> 12.  2017-04-19 14:59:32 +0000    76247 bytes  docs/libs/chroma.js</tspan>
-<tspan x="10" y="234"> 13.  2017-04-19 14:59:32 +0000    36706 bytes  docs/libs/chroma.min.js</tspan>
-<tspan x="10" y="250"> 14.  2017-04-19 14:59:32 +0000     7771 bytes  docs/libs/codemirror/lib/codemirror.css</tspan>
-<tspan x="10" y="266"> 15.  2017-04-19 14:59:32 +0000   346296 bytes  docs/libs/codemirror/lib/codemirror.js</tspan>
-<tspan x="10" y="282"> 16.  2017-04-19 14:59:32 +0000     4193 bytes  docs/libs/codemirror/mode/javascript/index.html</tspan>
-<tspan x="10" y="298"> 17.  2017-04-19 14:59:32 +0000    26745 bytes  docs/libs/codemirror/mode/javascript/javascript.\</tspan>
+<tspan x="10" y="26">  0.  2017-04-19 15:00:31 +0000   922506 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-19 15:00:31 +0000     1136 bytes  CHANGELOG</tspan>
+<tspan x="10" y="58">  2.  2017-04-19 15:00:31 +0000     2046 bytes  Gruntfile.js</tspan>
+<tspan x="10" y="74">  3.  2017-04-19 15:00:31 +0000     1497 bytes  LICENSE</tspan>
+<tspan x="10" y="90">  4.  2017-04-19 15:00:31 +0000      806 bytes  LICENSE-colors</tspan>
+<tspan x="10" y="106">  5.  2017-04-19 15:00:31 +0000      525 bytes  bower.json</tspan>
+<tspan x="10" y="122">  6.  2017-04-19 15:00:31 +0000    76247 bytes  chroma.js</tspan>
+<tspan x="10" y="138">  7.  2017-04-19 15:00:31 +0000    36706 bytes  chroma.min.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-19 15:00:31 +0000      181 bytes  docs/Makefile</tspan>
+<tspan x="10" y="170">  9.  2017-04-19 15:00:31 +0000      152 bytes  docs/assets/bg.png</tspan>
+<tspan x="10" y="186"> 10.  2017-04-19 15:00:31 +0000      367 bytes  docs/bin/post-process</tspan>
+<tspan x="10" y="202"> 11.  2017-04-19 15:00:31 +0000    37784 bytes  docs/index.html</tspan>
+<tspan x="10" y="218"> 12.  2017-04-19 15:00:31 +0000    76247 bytes  docs/libs/chroma.js</tspan>
+<tspan x="10" y="234"> 13.  2017-04-19 15:00:31 +0000    36706 bytes  docs/libs/chroma.min.js</tspan>
+<tspan x="10" y="250"> 14.  2017-04-19 15:00:31 +0000     7771 bytes  docs/libs/codemirror/lib/codemirror.css</tspan>
+<tspan x="10" y="266"> 15.  2017-04-19 15:00:31 +0000   346296 bytes  docs/libs/codemirror/lib/codemirror.js</tspan>
+<tspan x="10" y="282"> 16.  2017-04-19 15:00:31 +0000     4193 bytes  docs/libs/codemirror/mode/javascript/index.html</tspan>
+<tspan x="10" y="298"> 17.  2017-04-19 15:00:31 +0000    26745 bytes  docs/libs/codemirror/mode/javascript/javascript.\</tspan>
 <tspan x="10" y="314">js</tspan>
-<tspan x="10" y="330"> 18.  2017-04-19 14:59:32 +0000     2150 bytes  docs/libs/codemirror/mode/javascript/json-ld.htm\</tspan>
+<tspan x="10" y="330"> 18.  2017-04-19 15:00:31 +0000     2150 bytes  docs/libs/codemirror/mode/javascript/json-ld.htm\</tspan>
 <tspan x="10" y="346">l</tspan>
-<tspan x="10" y="362"> 19.  2017-04-19 14:59:32 +0000     7637 bytes  docs/libs/codemirror/mode/javascript/test.js</tspan>
-<tspan x="10" y="378"> 20.  2017-04-19 14:59:32 +0000     1547 bytes  docs/libs/codemirror/mode/javascript/typescript.\</tspan>
+<tspan x="10" y="362"> 19.  2017-04-19 15:00:31 +0000     7637 bytes  docs/libs/codemirror/mode/javascript/test.js</tspan>
+<tspan x="10" y="378"> 20.  2017-04-19 15:00:31 +0000     1547 bytes  docs/libs/codemirror/mode/javascript/typescript.\</tspan>
 <tspan x="10" y="394">html</tspan>
-<tspan x="10" y="410"> 21.  2017-04-19 14:59:32 +0000    95786 bytes  docs/libs/jquery/jquery-1.11.1.min.js</tspan>
-<tspan x="10" y="426"> 22.  2017-04-19 14:59:32 +0000     1609 bytes  docs/license.coffee</tspan>
-<tspan x="10" y="442"> 23.  2017-04-19 14:59:32 +0000     8472 bytes  docs/src/footer.inc.html</tspan>
-<tspan x="10" y="458"> 24.  2017-04-19 14:59:32 +0000     4690 bytes  docs/src/index.css</tspan>
-<tspan x="10" y="474"> 25.  2017-04-19 14:59:32 +0000    20646 bytes  docs/src/index.md</tspan>
-<tspan x="10" y="490"> 26.  2017-04-19 14:59:32 +0000     1609 bytes  license.coffee</tspan>
-<tspan x="10" y="506"> 27.  2017-04-19 14:59:32 +0000     2719 bytes  package.json</tspan>
-<tspan x="10" y="522"> 28.  2017-04-19 14:59:32 +0000     2464 bytes  readme.md</tspan>
-<tspan x="10" y="538"> 29.  2017-04-19 14:59:32 +0000      472 bytes  src/analyze.coffee</tspan>
-<tspan x="10" y="554"> 30.  2017-04-19 14:59:32 +0000      415 bytes  src/api.coffee</tspan>
-<tspan x="10" y="570"> 31.  2017-04-19 14:59:32 +0000     1108 bytes  src/color.coffee</tspan>
-<tspan x="10" y="586"> 32.  2017-04-19 14:59:32 +0000     4984 bytes  src/colors/colorbrewer.coffee</tspan>
-<tspan x="10" y="602"> 33.  2017-04-19 14:59:32 +0000     3978 bytes  src/colors/w3cx11.coffee</tspan>
-<tspan x="10" y="618"> 34.  2017-04-19 14:59:32 +0000      320 bytes  src/converter/in/cmyk2rgb.coffee</tspan>
-<tspan x="10" y="634"> 35.  2017-04-19 14:59:32 +0000     1692 bytes  src/converter/in/css2rgb.coffee</tspan>
-<tspan x="10" y="650"> 36.  2017-04-19 14:59:32 +0000      730 bytes  src/converter/in/hcg2rgb.coffee</tspan>
-<tspan x="10" y="666"> 37.  2017-04-19 14:59:32 +0000      848 bytes  src/converter/in/hex2rgb.coffee</tspan>
-<tspan x="10" y="682"> 38.  2017-04-19 14:59:32 +0000      805 bytes  src/converter/in/hsi2rgb.coffee</tspan>
-<tspan x="10" y="698"> 39.  2017-04-19 14:59:32 +0000      830 bytes  src/converter/in/hsl2rgb.coffee</tspan>
-<tspan x="10" y="714"> 40.  2017-04-19 14:59:32 +0000      676 bytes  src/converter/in/hsv2rgb.coffee</tspan>
-<tspan x="10" y="730"> 41.  2017-04-19 14:59:32 +0000      776 bytes  src/converter/in/lab2rgb.coffee</tspan>
-<tspan x="10" y="746"> 42.  2017-04-19 14:59:32 +0000      200 bytes  src/converter/in/lch2rgb.coffee</tspan>
-<tspan x="10" y="762"> 43.  2017-04-19 14:59:32 +0000      254 bytes  src/converter/in/num2rgb.coffee</tspan>
-<tspan x="10" y="778"> 44.  2017-04-19 14:59:32 +0000      658 bytes  src/converter/in/temperature2rgb.coffee</tspan>
-<tspan x="10" y="794"> 45.  2017-04-19 14:59:32 +0000      284 bytes  src/converter/misc/lab-constants.coffee</tspan>
-<tspan x="10" y="810"> 46.  2017-04-19 14:59:32 +0000      196 bytes  src/converter/misc/lab2lch.coffee</tspan>
-<tspan x="10" y="826"> 47.  2017-04-19 14:59:32 +0000      432 bytes  src/converter/misc/lch2lab.coffee</tspan>
-<tspan x="10" y="842"> 48.  2017-04-19 14:59:32 +0000      296 bytes  src/converter/out/hsl2css.coffee</tspan>
-<tspan x="10" y="858"> 49.  2017-04-19 14:59:32 +0000      258 bytes  src/converter/out/rgb2cmyk.coffee</tspan>
-<tspan x="10" y="874"> 50.  2017-04-19 14:59:32 +0000      274 bytes  src/converter/out/rgb2css.coffee</tspan>
-<tspan x="10" y="890"> 51.  2017-04-19 14:59:32 +0000      438 bytes  src/converter/out/rgb2hcg.coffee</tspan>
-<tspan x="10" y="906"> 52.  2017-04-19 14:59:32 +0000      453 bytes  src/converter/out/rgb2hex.coffee</tspan>
-<tspan x="10" y="922"> 53.  2017-04-19 14:59:32 +0000      535 bytes  src/converter/out/rgb2hsi.coffee</tspan>
-<tspan x="10" y="938"> 54.  2017-04-19 14:59:32 +0000      569 bytes  src/converter/out/rgb2hsl.coffee</tspan>
-<tspan x="10" y="954"> 55.  2017-04-19 14:59:32 +0000      433 bytes  src/converter/out/rgb2hsv.coffee</tspan>
-<tspan x="10" y="970"> 56.  2017-04-19 14:59:32 +0000      727 bytes  src/converter/out/rgb2lab.coffee</tspan>
-<tspan x="10" y="986"> 57.  2017-04-19 14:59:32 +0000      122 bytes  src/converter/out/rgb2lch.coffee</tspan>
-<tspan x="10" y="1002"> 58.  2017-04-19 14:59:32 +0000      388 bytes  src/converter/out/rgb2luminance.coffee</tspan>
-<tspan x="10" y="1018"> 59.  2017-04-19 14:59:32 +0000       77 bytes  src/converter/out/rgb2num.coffee</tspan>
-<tspan x="10" y="1034"> 60.  2017-04-19 14:59:32 +0000      475 bytes  src/converter/out/rgb2temperature.coffee</tspan>
-<tspan x="10" y="1050"> 61.  2017-04-19 14:59:32 +0000     1076 bytes  src/generator/average.coffee</tspan>
-<tspan x="10" y="1066"> 62.  2017-04-19 14:59:32 +0000     1301 bytes  src/generator/bezier.coffee</tspan>
-<tspan x="10" y="1082"> 63.  2017-04-19 14:59:32 +0000     3242 bytes  src/generator/cubehelix.coffee</tspan>
-<tspan x="10" y="1098"> 64.  2017-04-19 14:59:32 +0000      156 bytes  src/generator/random.coffee</tspan>
-<tspan x="10" y="1114"> 65.  2017-04-19 14:59:32 +0000      431 bytes  src/index.coffee</tspan>
-<tspan x="10" y="1130"> 66.  2017-04-19 14:59:32 +0000     1322 bytes  src/interpolator/interpolate-hsx.coffee</tspan>
-<tspan x="10" y="1146"> 67.  2017-04-19 14:59:32 +0000      295 bytes  src/interpolator/interpolate-lab.coffee</tspan>
-<tspan x="10" y="1162"> 68.  2017-04-19 14:59:32 +0000      194 bytes  src/interpolator/interpolate-num.coffee</tspan>
-<tspan x="10" y="1178"> 69.  2017-04-19 14:59:32 +0000      311 bytes  src/interpolator/interpolate-rgb.coffee</tspan>
-<tspan x="10" y="1194"> 70.  2017-04-19 14:59:32 +0000      738 bytes  src/interpolator/interpolate.coffee</tspan>
-<tspan x="10" y="1210"> 71.  2017-04-19 14:59:32 +0000      182 bytes  src/io/cmyk.coffee</tspan>
-<tspan x="10" y="1226"> 72.  2017-04-19 14:59:32 +0000      363 bytes  src/io/contrast.coffee</tspan>
-<tspan x="10" y="1242"> 73.  2017-04-19 14:59:32 +0000      275 bytes  src/io/css.coffee</tspan>
-<tspan x="10" y="1258"> 74.  2017-04-19 14:59:32 +0000     1100 bytes  src/io/delta-e.coffee</tspan>
-<tspan x="10" y="1274"> 75.  2017-04-19 14:59:32 +0000      423 bytes  src/io/distance.coffee</tspan>
-<tspan x="10" y="1290"> 76.  2017-04-19 14:59:32 +0000      264 bytes  src/io/gl.coffee</tspan>
-<tspan x="10" y="1306"> 77.  2017-04-19 14:59:32 +0000      146 bytes  src/io/hcg.coffee</tspan>
-<tspan x="10" y="1322"> 78.  2017-04-19 14:59:32 +0000      281 bytes  src/io/hex.coffee</tspan>
-<tspan x="10" y="1338"> 79.  2017-04-19 14:59:32 +0000      149 bytes  src/io/hsi.coffee</tspan>
-<tspan x="10" y="1354"> 80.  2017-04-19 14:59:32 +0000      149 bytes  src/io/hsl.coffee</tspan>
-<tspan x="10" y="1370"> 81.  2017-04-19 14:59:32 +0000      146 bytes  src/io/hsv.coffee</tspan>
-<tspan x="10" y="1386"> 82.  2017-04-19 14:59:32 +0000      149 bytes  src/io/lab.coffee</tspan>
-<tspan x="10" y="1402"> 83.  2017-04-19 14:59:32 +0000      363 bytes  src/io/lch.coffee</tspan>
-<tspan x="10" y="1418"> 84.  2017-04-19 14:59:32 +0000      726 bytes  src/io/luminance.coffee</tspan>
-<tspan x="10" y="1434"> 85.  2017-04-19 14:59:32 +0000      430 bytes  src/io/named.coffee</tspan>
-<tspan x="10" y="1450"> 86.  2017-04-19 14:59:32 +0000      297 bytes  src/io/num.coffee</tspan>
-<tspan x="10" y="1466"> 87.  2017-04-19 14:59:32 +0000      616 bytes  src/io/rgb.coffee</tspan>
-<tspan x="10" y="1482"> 88.  2017-04-19 14:59:32 +0000      292 bytes  src/io/temperature.coffee</tspan>
-<tspan x="10" y="1498"> 89.  2017-04-19 14:59:32 +0000     4879 bytes  src/limits.coffee</tspan>
-<tspan x="10" y="1514"> 90.  2017-04-19 14:59:32 +0000      138 bytes  src/ops/alpha.coffee</tspan>
-<tspan x="10" y="1530"> 91.  2017-04-19 14:59:32 +0000     1488 bytes  src/ops/blend.coffee</tspan>
-<tspan x="10" y="1546"> 92.  2017-04-19 14:59:32 +0000       69 bytes  src/ops/clipped.coffee</tspan>
-<tspan x="10" y="1562"> 93.  2017-04-19 14:59:32 +0000      293 bytes  src/ops/darken.coffee</tspan>
-<tspan x="10" y="1578"> 94.  2017-04-19 14:59:32 +0000      303 bytes  src/ops/get.coffee</tspan>
-<tspan x="10" y="1594"> 95.  2017-04-19 14:59:32 +0000      125 bytes  src/ops/premultiply.coffee</tspan>
-<tspan x="10" y="1610"> 96.  2017-04-19 14:59:32 +0000      252 bytes  src/ops/saturate.coffee</tspan>
-<tspan x="10" y="1626"> 97.  2017-04-19 14:59:32 +0000      724 bytes  src/ops/set.coffee</tspan>
-<tspan x="10" y="1642"> 98.  2017-04-19 14:59:32 +0000     7237 bytes  src/scale.coffee</tspan>
-<tspan x="10" y="1658"> 99.  2017-04-19 14:59:32 +0000     1102 bytes  src/utils.coffee</tspan>
-<tspan x="10" y="1674">100.  2017-04-19 14:59:32 +0000     5163 bytes  test/alpha-test.coffee</tspan>
-<tspan x="10" y="1690">101.  2017-04-19 14:59:32 +0000     2033 bytes  test/analyze-test.coffee</tspan>
-<tspan x="10" y="1706">102.  2017-04-19 14:59:32 +0000      942 bytes  test/average-test.coffee</tspan>
-<tspan x="10" y="1722">103.  2017-04-19 14:59:32 +0000     2669 bytes  test/bezier-test.coffee</tspan>
-<tspan x="10" y="1738">104.  2017-04-19 14:59:32 +0000      803 bytes  test/blend-test.coffee</tspan>
-<tspan x="10" y="1754">105.  2017-04-19 14:59:32 +0000      292 bytes  test/cache-performance.coffee</tspan>
-<tspan x="10" y="1770">106.  2017-04-19 14:59:32 +0000     2321 bytes  test/cmyk-test.coffee</tspan>
-<tspan x="10" y="1786">107.  2017-04-19 14:59:32 +0000     3071 bytes  test/colors-test.coffee</tspan>
-<tspan x="10" y="1802">108.  2017-04-19 14:59:32 +0000      614 bytes  test/contrast-test.coffee</tspan>
-<tspan x="10" y="1818">109.  2017-04-19 14:59:32 +0000     1051 bytes  test/converters-test.coffee</tspan>
-<tspan x="10" y="1834">110.  2017-04-19 14:59:32 +0000     3163 bytes  test/cubehelix-test.coffee</tspan>
-<tspan x="10" y="1850">111.  2017-04-19 14:59:32 +0000      315 bytes  test/get-test.coffee</tspan>
-<tspan x="10" y="1866">112.  2017-04-19 14:59:32 +0000      880 bytes  test/gl-test.coffee</tspan>
-<tspan x="10" y="1882">113.  2017-04-19 14:59:32 +0000     3865 bytes  test/guess-format-test.coffee</tspan>
-<tspan x="10" y="1898">114.  2017-04-19 14:59:32 +0000     1608 bytes  test/html/bezier.html</tspan>
-<tspan x="10" y="1914">115.  2017-04-19 14:59:32 +0000     1862 bytes  test/html/blend.html</tspan>
-<tspan x="10" y="1930">116.  2017-04-19 14:59:32 +0000     3413 bytes  test/html/colorscales.html</tspan>
-<tspan x="10" y="1946">117.  2017-04-19 14:59:32 +0000     1783 bytes  test/html/cubehelix.html</tspan>
-<tspan x="10" y="1962">118.  2017-04-19 14:59:32 +0000     1427 bytes  test/html/luminance.html</tspan>
-<tspan x="10" y="1978">119.  2017-04-19 14:59:32 +0000     3323 bytes  test/interpolate-test.coffee</tspan>
-<tspan x="10" y="1994">120.  2017-04-19 14:59:32 +0000     1635 bytes  test/lch-test.coffee</tspan>
-<tspan x="10" y="2010">121.  2017-04-19 14:59:32 +0000     2126 bytes  test/lcorrection-test.coffee</tspan>
-<tspan x="10" y="2026">122.  2017-04-19 14:59:32 +0000     1858 bytes  test/limits-test.coffee</tspan>
-<tspan x="10" y="2042">123.  2017-04-19 14:59:32 +0000     1955 bytes  test/luminance-test.coffee</tspan>
-<tspan x="10" y="2058">124.  2017-04-19 14:59:32 +0000     1654 bytes  test/manipulate-test.coffee</tspan>
-<tspan x="10" y="2074">125.  2017-04-19 14:59:32 +0000     1108 bytes  test/num-test.coffee</tspan>
-<tspan x="10" y="2090">126.  2017-04-19 14:59:32 +0000      330 bytes  test/random-test.coffee</tspan>
-<tspan x="10" y="2106">127.  2017-04-19 14:59:32 +0000     7726 bytes  test/scales-test.coffee</tspan>
-<tspan x="10" y="2122">128.  2017-04-19 14:59:32 +0000      382 bytes  test/set-test.coffee</tspan>
-<tspan x="10" y="2138">129.  2017-04-19 14:59:32 +0000     1163 bytes  test/temperature-test.coffee</tspan>
-<tspan x="10" y="2154">130.  2017-04-19 14:59:32 +0000      507 bytes  test/utils-test.coffee</tspan>
+<tspan x="10" y="410"> 21.  2017-04-19 15:00:31 +0000    95786 bytes  docs/libs/jquery/jquery-1.11.1.min.js</tspan>
+<tspan x="10" y="426"> 22.  2017-04-19 15:00:31 +0000     1609 bytes  docs/license.coffee</tspan>
+<tspan x="10" y="442"> 23.  2017-04-19 15:00:31 +0000     8472 bytes  docs/src/footer.inc.html</tspan>
+<tspan x="10" y="458"> 24.  2017-04-19 15:00:31 +0000     4690 bytes  docs/src/index.css</tspan>
+<tspan x="10" y="474"> 25.  2017-04-19 15:00:31 +0000    20646 bytes  docs/src/index.md</tspan>
+<tspan x="10" y="490"> 26.  2017-04-19 15:00:31 +0000     1609 bytes  license.coffee</tspan>
+<tspan x="10" y="506"> 27.  2017-04-19 15:00:31 +0000     2719 bytes  package.json</tspan>
+<tspan x="10" y="522"> 28.  2017-04-19 15:00:31 +0000     2464 bytes  readme.md</tspan>
+<tspan x="10" y="538"> 29.  2017-04-19 15:00:31 +0000      472 bytes  src/analyze.coffee</tspan>
+<tspan x="10" y="554"> 30.  2017-04-19 15:00:31 +0000      415 bytes  src/api.coffee</tspan>
+<tspan x="10" y="570"> 31.  2017-04-19 15:00:31 +0000     1108 bytes  src/color.coffee</tspan>
+<tspan x="10" y="586"> 32.  2017-04-19 15:00:31 +0000     4984 bytes  src/colors/colorbrewer.coffee</tspan>
+<tspan x="10" y="602"> 33.  2017-04-19 15:00:31 +0000     3978 bytes  src/colors/w3cx11.coffee</tspan>
+<tspan x="10" y="618"> 34.  2017-04-19 15:00:31 +0000      320 bytes  src/converter/in/cmyk2rgb.coffee</tspan>
+<tspan x="10" y="634"> 35.  2017-04-19 15:00:31 +0000     1692 bytes  src/converter/in/css2rgb.coffee</tspan>
+<tspan x="10" y="650"> 36.  2017-04-19 15:00:31 +0000      730 bytes  src/converter/in/hcg2rgb.coffee</tspan>
+<tspan x="10" y="666"> 37.  2017-04-19 15:00:31 +0000      848 bytes  src/converter/in/hex2rgb.coffee</tspan>
+<tspan x="10" y="682"> 38.  2017-04-19 15:00:31 +0000      805 bytes  src/converter/in/hsi2rgb.coffee</tspan>
+<tspan x="10" y="698"> 39.  2017-04-19 15:00:31 +0000      830 bytes  src/converter/in/hsl2rgb.coffee</tspan>
+<tspan x="10" y="714"> 40.  2017-04-19 15:00:31 +0000      676 bytes  src/converter/in/hsv2rgb.coffee</tspan>
+<tspan x="10" y="730"> 41.  2017-04-19 15:00:31 +0000      776 bytes  src/converter/in/lab2rgb.coffee</tspan>
+<tspan x="10" y="746"> 42.  2017-04-19 15:00:31 +0000      200 bytes  src/converter/in/lch2rgb.coffee</tspan>
+<tspan x="10" y="762"> 43.  2017-04-19 15:00:31 +0000      254 bytes  src/converter/in/num2rgb.coffee</tspan>
+<tspan x="10" y="778"> 44.  2017-04-19 15:00:31 +0000      658 bytes  src/converter/in/temperature2rgb.coffee</tspan>
+<tspan x="10" y="794"> 45.  2017-04-19 15:00:31 +0000      284 bytes  src/converter/misc/lab-constants.coffee</tspan>
+<tspan x="10" y="810"> 46.  2017-04-19 15:00:31 +0000      196 bytes  src/converter/misc/lab2lch.coffee</tspan>
+<tspan x="10" y="826"> 47.  2017-04-19 15:00:31 +0000      432 bytes  src/converter/misc/lch2lab.coffee</tspan>
+<tspan x="10" y="842"> 48.  2017-04-19 15:00:31 +0000      296 bytes  src/converter/out/hsl2css.coffee</tspan>
+<tspan x="10" y="858"> 49.  2017-04-19 15:00:31 +0000      258 bytes  src/converter/out/rgb2cmyk.coffee</tspan>
+<tspan x="10" y="874"> 50.  2017-04-19 15:00:31 +0000      274 bytes  src/converter/out/rgb2css.coffee</tspan>
+<tspan x="10" y="890"> 51.  2017-04-19 15:00:31 +0000      438 bytes  src/converter/out/rgb2hcg.coffee</tspan>
+<tspan x="10" y="906"> 52.  2017-04-19 15:00:31 +0000      453 bytes  src/converter/out/rgb2hex.coffee</tspan>
+<tspan x="10" y="922"> 53.  2017-04-19 15:00:31 +0000      535 bytes  src/converter/out/rgb2hsi.coffee</tspan>
+<tspan x="10" y="938"> 54.  2017-04-19 15:00:31 +0000      569 bytes  src/converter/out/rgb2hsl.coffee</tspan>
+<tspan x="10" y="954"> 55.  2017-04-19 15:00:31 +0000      433 bytes  src/converter/out/rgb2hsv.coffee</tspan>
+<tspan x="10" y="970"> 56.  2017-04-19 15:00:31 +0000      727 bytes  src/converter/out/rgb2lab.coffee</tspan>
+<tspan x="10" y="986"> 57.  2017-04-19 15:00:31 +0000      122 bytes  src/converter/out/rgb2lch.coffee</tspan>
+<tspan x="10" y="1002"> 58.  2017-04-19 15:00:31 +0000      388 bytes  src/converter/out/rgb2luminance.coffee</tspan>
+<tspan x="10" y="1018"> 59.  2017-04-19 15:00:31 +0000       77 bytes  src/converter/out/rgb2num.coffee</tspan>
+<tspan x="10" y="1034"> 60.  2017-04-19 15:00:31 +0000      475 bytes  src/converter/out/rgb2temperature.coffee</tspan>
+<tspan x="10" y="1050"> 61.  2017-04-19 15:00:31 +0000     1076 bytes  src/generator/average.coffee</tspan>
+<tspan x="10" y="1066"> 62.  2017-04-19 15:00:31 +0000     1301 bytes  src/generator/bezier.coffee</tspan>
+<tspan x="10" y="1082"> 63.  2017-04-19 15:00:31 +0000     3242 bytes  src/generator/cubehelix.coffee</tspan>
+<tspan x="10" y="1098"> 64.  2017-04-19 15:00:31 +0000      156 bytes  src/generator/random.coffee</tspan>
+<tspan x="10" y="1114"> 65.  2017-04-19 15:00:31 +0000      431 bytes  src/index.coffee</tspan>
+<tspan x="10" y="1130"> 66.  2017-04-19 15:00:31 +0000     1322 bytes  src/interpolator/interpolate-hsx.coffee</tspan>
+<tspan x="10" y="1146"> 67.  2017-04-19 15:00:31 +0000      295 bytes  src/interpolator/interpolate-lab.coffee</tspan>
+<tspan x="10" y="1162"> 68.  2017-04-19 15:00:31 +0000      194 bytes  src/interpolator/interpolate-num.coffee</tspan>
+<tspan x="10" y="1178"> 69.  2017-04-19 15:00:31 +0000      311 bytes  src/interpolator/interpolate-rgb.coffee</tspan>
+<tspan x="10" y="1194"> 70.  2017-04-19 15:00:31 +0000      738 bytes  src/interpolator/interpolate.coffee</tspan>
+<tspan x="10" y="1210"> 71.  2017-04-19 15:00:31 +0000      182 bytes  src/io/cmyk.coffee</tspan>
+<tspan x="10" y="1226"> 72.  2017-04-19 15:00:31 +0000      363 bytes  src/io/contrast.coffee</tspan>
+<tspan x="10" y="1242"> 73.  2017-04-19 15:00:31 +0000      275 bytes  src/io/css.coffee</tspan>
+<tspan x="10" y="1258"> 74.  2017-04-19 15:00:31 +0000     1100 bytes  src/io/delta-e.coffee</tspan>
+<tspan x="10" y="1274"> 75.  2017-04-19 15:00:31 +0000      423 bytes  src/io/distance.coffee</tspan>
+<tspan x="10" y="1290"> 76.  2017-04-19 15:00:31 +0000      264 bytes  src/io/gl.coffee</tspan>
+<tspan x="10" y="1306"> 77.  2017-04-19 15:00:31 +0000      146 bytes  src/io/hcg.coffee</tspan>
+<tspan x="10" y="1322"> 78.  2017-04-19 15:00:31 +0000      281 bytes  src/io/hex.coffee</tspan>
+<tspan x="10" y="1338"> 79.  2017-04-19 15:00:31 +0000      149 bytes  src/io/hsi.coffee</tspan>
+<tspan x="10" y="1354"> 80.  2017-04-19 15:00:31 +0000      149 bytes  src/io/hsl.coffee</tspan>
+<tspan x="10" y="1370"> 81.  2017-04-19 15:00:31 +0000      146 bytes  src/io/hsv.coffee</tspan>
+<tspan x="10" y="1386"> 82.  2017-04-19 15:00:31 +0000      149 bytes  src/io/lab.coffee</tspan>
+<tspan x="10" y="1402"> 83.  2017-04-19 15:00:31 +0000      363 bytes  src/io/lch.coffee</tspan>
+<tspan x="10" y="1418"> 84.  2017-04-19 15:00:31 +0000      726 bytes  src/io/luminance.coffee</tspan>
+<tspan x="10" y="1434"> 85.  2017-04-19 15:00:31 +0000      430 bytes  src/io/named.coffee</tspan>
+<tspan x="10" y="1450"> 86.  2017-04-19 15:00:31 +0000      297 bytes  src/io/num.coffee</tspan>
+<tspan x="10" y="1466"> 87.  2017-04-19 15:00:31 +0000      616 bytes  src/io/rgb.coffee</tspan>
+<tspan x="10" y="1482"> 88.  2017-04-19 15:00:31 +0000      292 bytes  src/io/temperature.coffee</tspan>
+<tspan x="10" y="1498"> 89.  2017-04-19 15:00:31 +0000     4879 bytes  src/limits.coffee</tspan>
+<tspan x="10" y="1514"> 90.  2017-04-19 15:00:31 +0000      138 bytes  src/ops/alpha.coffee</tspan>
+<tspan x="10" y="1530"> 91.  2017-04-19 15:00:31 +0000     1488 bytes  src/ops/blend.coffee</tspan>
+<tspan x="10" y="1546"> 92.  2017-04-19 15:00:31 +0000       69 bytes  src/ops/clipped.coffee</tspan>
+<tspan x="10" y="1562"> 93.  2017-04-19 15:00:31 +0000      293 bytes  src/ops/darken.coffee</tspan>
+<tspan x="10" y="1578"> 94.  2017-04-19 15:00:31 +0000      303 bytes  src/ops/get.coffee</tspan>
+<tspan x="10" y="1594"> 95.  2017-04-19 15:00:31 +0000      125 bytes  src/ops/premultiply.coffee</tspan>
+<tspan x="10" y="1610"> 96.  2017-04-19 15:00:31 +0000      252 bytes  src/ops/saturate.coffee</tspan>
+<tspan x="10" y="1626"> 97.  2017-04-19 15:00:31 +0000      724 bytes  src/ops/set.coffee</tspan>
+<tspan x="10" y="1642"> 98.  2017-04-19 15:00:31 +0000     7237 bytes  src/scale.coffee</tspan>
+<tspan x="10" y="1658"> 99.  2017-04-19 15:00:31 +0000     1102 bytes  src/utils.coffee</tspan>
+<tspan x="10" y="1674">100.  2017-04-19 15:00:31 +0000     5163 bytes  test/alpha-test.coffee</tspan>
+<tspan x="10" y="1690">101.  2017-04-19 15:00:31 +0000     2033 bytes  test/analyze-test.coffee</tspan>
+<tspan x="10" y="1706">102.  2017-04-19 15:00:31 +0000      942 bytes  test/average-test.coffee</tspan>
+<tspan x="10" y="1722">103.  2017-04-19 15:00:31 +0000     2669 bytes  test/bezier-test.coffee</tspan>
+<tspan x="10" y="1738">104.  2017-04-19 15:00:31 +0000      803 bytes  test/blend-test.coffee</tspan>
+<tspan x="10" y="1754">105.  2017-04-19 15:00:31 +0000      292 bytes  test/cache-performance.coffee</tspan>
+<tspan x="10" y="1770">106.  2017-04-19 15:00:31 +0000     2321 bytes  test/cmyk-test.coffee</tspan>
+<tspan x="10" y="1786">107.  2017-04-19 15:00:31 +0000     3071 bytes  test/colors-test.coffee</tspan>
+<tspan x="10" y="1802">108.  2017-04-19 15:00:31 +0000      614 bytes  test/contrast-test.coffee</tspan>
+<tspan x="10" y="1818">109.  2017-04-19 15:00:31 +0000     1051 bytes  test/converters-test.coffee</tspan>
+<tspan x="10" y="1834">110.  2017-04-19 15:00:31 +0000     3163 bytes  test/cubehelix-test.coffee</tspan>
+<tspan x="10" y="1850">111.  2017-04-19 15:00:31 +0000      315 bytes  test/get-test.coffee</tspan>
+<tspan x="10" y="1866">112.  2017-04-19 15:00:31 +0000      880 bytes  test/gl-test.coffee</tspan>
+<tspan x="10" y="1882">113.  2017-04-19 15:00:31 +0000     3865 bytes  test/guess-format-test.coffee</tspan>
+<tspan x="10" y="1898">114.  2017-04-19 15:00:31 +0000     1608 bytes  test/html/bezier.html</tspan>
+<tspan x="10" y="1914">115.  2017-04-19 15:00:31 +0000     1862 bytes  test/html/blend.html</tspan>
+<tspan x="10" y="1930">116.  2017-04-19 15:00:31 +0000     3413 bytes  test/html/colorscales.html</tspan>
+<tspan x="10" y="1946">117.  2017-04-19 15:00:31 +0000     1783 bytes  test/html/cubehelix.html</tspan>
+<tspan x="10" y="1962">118.  2017-04-19 15:00:31 +0000     1427 bytes  test/html/luminance.html</tspan>
+<tspan x="10" y="1978">119.  2017-04-19 15:00:31 +0000     3323 bytes  test/interpolate-test.coffee</tspan>
+<tspan x="10" y="1994">120.  2017-04-19 15:00:31 +0000     1635 bytes  test/lch-test.coffee</tspan>
+<tspan x="10" y="2010">121.  2017-04-19 15:00:31 +0000     2126 bytes  test/lcorrection-test.coffee</tspan>
+<tspan x="10" y="2026">122.  2017-04-19 15:00:31 +0000     1858 bytes  test/limits-test.coffee</tspan>
+<tspan x="10" y="2042">123.  2017-04-19 15:00:31 +0000     1955 bytes  test/luminance-test.coffee</tspan>
+<tspan x="10" y="2058">124.  2017-04-19 15:00:31 +0000     1654 bytes  test/manipulate-test.coffee</tspan>
+<tspan x="10" y="2074">125.  2017-04-19 15:00:31 +0000     1108 bytes  test/num-test.coffee</tspan>
+<tspan x="10" y="2090">126.  2017-04-19 15:00:31 +0000      330 bytes  test/random-test.coffee</tspan>
+<tspan x="10" y="2106">127.  2017-04-19 15:00:31 +0000     7726 bytes  test/scales-test.coffee</tspan>
+<tspan x="10" y="2122">128.  2017-04-19 15:00:31 +0000      382 bytes  test/set-test.coffee</tspan>
+<tspan x="10" y="2138">129.  2017-04-19 15:00:31 +0000     1163 bytes  test/temperature-test.coffee</tspan>
+<tspan x="10" y="2154">130.  2017-04-19 15:00:31 +0000      507 bytes  test/utils-test.coffee</tspan>
 </text>
 </svg>
